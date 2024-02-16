@@ -162,7 +162,7 @@ const subjectsFYG = (props) => {
 						</ul>
 					</PopupButton>
 				</>
-			)}	
+			)}
 		</div>
 	)
 }
